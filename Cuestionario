@@ -1,0 +1,28 @@
+1. ¿Qué es Git?
+
+	Git es un sistema de control de versiones distribuido usado para rastrear cambios en el código. Facilita la colaboración en proyectos, historial de cambios y revertir versiones. Es esencial para el desarrollo 	de software colaborativo.
+
+2. ¿Cuál es el propósito del comando git init en Git?
+
+	git init inicia un nuevo repositorio Git en un directorio. Crea un directorio .git que almacena información sobre versiones y configuraciones del repositorio.
+
+3. ¿Qué representa una rama en Git y cómo se utiliza?
+
+	Una rama en Git es una línea de desarrollo independiente. Permite trabajar en nuevas características o correcciones sin afectar la rama principal.
+	
+4. ¿Cómo puedo determinar en qué rama estoy actualmente en Git?
+
+	Una rama en Git es una línea de desarrollo independiente. Permite trabajar en nuevas características o correcciones sin afectar la rama principal.
+
+5. ¿Quién es la persona responsable de la creación de Git y cuándo fue desarrollado?
+
+	Linus Torvalds creó Git en 2005, lanzando la primera versión estable en 2007.
+
+6. ¿Cuáles son algunos de los comandos esenciales de Git y para qué se utilizan?
+
+	Comandos esenciales de Git: clone (clonar), add (agregar), commit (guardar cambios), push (subir cambios), pull (obtener y fusionar cambios).
+
+7. ¿Puedes mencionar algunos de los repositorios de Git más reconocidos y utilizados en
+la actualidad?
+
+	GitHub, GitLab, Bitbucket.
